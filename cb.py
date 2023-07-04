@@ -5,7 +5,7 @@ import requests
 st.set_page_config(page_title='ChatBot', page_icon='chatbot.png', layout="centered", initial_sidebar_state="auto",
                    menu_items=None)
 
-API_KEY = "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"
+API_KEY = "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"
 API_URL = "https://api.openai.com/v1/chat/completions"
 
 headers = {
